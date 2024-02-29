@@ -1,0 +1,6 @@
+import sys
+
+
+eng = []
+for line in sys:
+  eng.append(line.split(''))
